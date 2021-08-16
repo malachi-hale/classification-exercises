@@ -5,4 +5,6 @@ __pycache__
 titanic.csv
 iris.csv
 *.csv
-*.xlsx untidy-data *.xlsx
+*.xlsx
+ 
+ 
