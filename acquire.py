@@ -1,6 +1,5 @@
 import os
 import pandas as pd
-
 import env
 
 def get_connection(db, user=env.user, host=env.host, password=env.password):
