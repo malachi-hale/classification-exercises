@@ -5,6 +5,7 @@ __pycache__
 titanic.csv
 classification_evaluation_lesson.ipynb
 iris.csv
+cry_wolf.ipynb
 *.csv
 *.xlsx
  
